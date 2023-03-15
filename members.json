@@ -1,0 +1,38 @@
+[
+  {
+    "email": "user1@xyz.com",
+    "first_name": "Bob",
+    "last_name": "Smith",
+    "last_workout": "03/04/2023",
+    "number_of_workouts": 5
+  },
+  {
+    "email": "user2@xyz.com",
+    "first_name": "Kim",
+    "last_name": "Thompson",
+    "last_workout": "03/07/2023",
+    "number_of_workouts": 15
+  },
+  {
+    "email": "user3@xyz.com",
+    "first_name": "Jack",
+    "last_name": "Jackson",
+    "last_workout": "",
+    "number_of_workouts": 0
+  },
+  {
+    "email": "timmy@tim.com",
+    "first_name": "Timothy",
+    "last_name": "Timmons"
+  },
+  {
+    "email": "user5@xyz.com",
+    "first_name": "Sam",
+    "last_name": "Sampson"
+  },
+  {
+    "email": "tim@time.comm",
+    "first_name": "Tim",
+    "last_name": "Tompson"
+  }
+]

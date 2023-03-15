@@ -1,0 +1,11 @@
+<div>
+  <h1 class="display-5 ffw-heading">NAME: {{ session.get("cur_member").first_name }} 
+    <a href="/logout"><i class="bi bi-box-arrow-right"></i></a>
+  </h1>
+  <h3 class="ffw-body-text"># OF WORKOUTS: 
+  {{ session.get("cur_member").number_of_workouts }}
+  </h3>
+  <h3 class="ffw-body-text">LAST WORKOUT: 
+  {{ session.get("cur_member").last_workout }}
+  </h3>
+</div>
